@@ -1,12 +1,13 @@
 { "cities" : [
-  "berlin": {
+  {
+    "name": "berlin",
     "moon": "https://www5a.wolframalpha.com/Calculate/MSP/MSP59423c6fhh0733hdb0200005c4a96aadaib8eec?MSPStoreType=image/gif&s=24",
     "sun": ""
   },
-  "barcelona": {},
-  "auckland": {},
-  "sydney": {},
-  "moscow": {},
-  "hamburg": {}
+  { "name": "barcelona" },
+  { "name": "auckland" },
+  { "name": "sydney" },
+  { "name": "moscow" },
+  { "name": "hamburg" }
 ]
 }
